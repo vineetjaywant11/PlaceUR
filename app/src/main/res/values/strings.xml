@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PlaceUR</string>
+    <string name="str_Login_app_logo">App Logo</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="str_login_button">Login</string>
+    <string name="str_login_or">or connect with</string>
+    <string name="str_login_sign_up">Don\'t have an account? <font color='#f75454'>Sign up</font></string>
+    <string name="str_signup_create_new_account">Create new account</string>
+    <string name="str_signup_full_name">Full Name</string>
+    <string name="str_signup_phone_number">Phone Number</string>
+    <string name="str_signup_email">Email Address</string>
+    <string name="str_signup_password">Password</string>
+    <string name="str_signup_confirm_password">Confirm Password</string>
+    <string name="str_signup_button">Sign Up</string>
+    <string name="str_signup_sign_in">Already have an account? <font color='#f75454'>Sign in</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_home">Home</string>
+    <string name="str_categories">Categories</string>
+    <string name="str_saved">Saved</string>
+    <string name="str_search">Search</string>
+    <string name="splash_logo">Splash Logo</string>
+    <string name="home_fragment_browse_by_category">Browse By Category</string>
+    <string name="home_fragment_great_spots_near_you">Great Spots Near You</string>
+
+</resources>

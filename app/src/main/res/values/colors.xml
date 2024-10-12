@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--   Basic Color Guide -->
+    <color name="primaryColor">#C1372D</color>
+    <color name="primaryLightColor">#fa6957</color>
+    <color name="primaryDarkColor">#890004</color>
+
+    <color name="secondaryLightColor">#8bffb5</color>
+    <color name="secondaryDarkColor">#09a257</color>
+
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+<!--Window BackGround Color-->
+    <color name="windowBackground">#F3F3F3</color>
+
+    <!--Window Status Color-->
+    <color name="statusBarColor">@color/primaryDarkColor</color>
+
+<!--    Tint Color-->
+
+    <color name="imageBackgroundTint">#C3C3C3</color>
+
+    <color name="colorStatusConnected">#43A047</color>
+    <color name="colorStatusNotConnected">#D32F2F</color>
+
+    <color name="textColor">@android:color/black</color>
+    <color name="bulbColor">@android:color/black</color>
+    <color name="post_background">@android:color/white</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+
+    <!-- Card Theme Color   -->
+    <color name="colorBackground">#F0F0F0</color>
+    <color name="colorCardBackground">#FFFFFF</color>
+    <color name="colorElevation6">#E5E5E5</color>
+    <color name="colorElevation2">#E5E5E5</color>
+    <color name="colorElevation12">#E5E5E5</color>
+    <color name="colorTitle60">#E5E5E5</color>
+    <color name="colorNumber">#000000</color>
+    <color name="colorBtnBackground">#FFFFFF</color>
+
+</resources>

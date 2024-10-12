@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!--   Basic Color Guide -->
+    <color name="primaryColor">#fa6957</color>
+    <color name="primaryLightColor">#ff9b84</color>
+    <color name="primaryDarkColor">#c1372d</color>
+
+    <color name="secondaryLightColor">#8bffb5</color>
+    <color name="secondaryDarkColor">#09a257</color>
+
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+
+    <!--Window BackGround Color-->
+    <color name="windowBackground">#2C2A2A</color>
+
+    <!--Window Status Color-->
+    <color name="statusBarColor">@color/black</color>
+
+    <!--    Tint Color-->
+
+    <color name="imageBackgroundTint">#C3C3C3</color>
+
+    <color name="colorStatusConnected">#43A047</color>
+    <color name="colorStatusNotConnected">#D32F2F</color>
+
+    <color name="textColor">@android:color/black</color>
+    <color name="bulbColor">@android:color/black</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+
+
+    <color name="colorBackground">#121212</color>
+    <!-- Advance Widget   -->
+    <color name="colorCardBackground">#000000</color>
+    <!-- Normal Widget   -->
+    <color name="colorElevation6">#585858</color>
+    <color name="colorElevation2">#757575</color>
+    <color name="colorElevation12">#333333</color>
+    <color name="colorTitle60">#99FFFFFF</color>
+    <color name="colorNumber">#DEFFFFFF</color>
+    <color name="colorBtnBackground">#ff8781</color>
+
+</resources>
